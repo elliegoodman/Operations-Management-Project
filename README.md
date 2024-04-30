@@ -15,4 +15,4 @@ We found that, throughout the Pandemic, restaraunts were affected by decreased s
 
 ## View Project
 [Ops Management Group Paper - Copy.pdf](https://github.com/elliegoodman/Operations-Management-Project/files/9679448/Ops.Management.Group.Paper.-.Copy.pdf)
-<iframe src="https://iowa-my.sharepoint.com/personal/eggoodman_uiowa_edu/_layouts/15/Doc.aspx?sourcedoc={2701a5c2-1817-4920-9186-1ea2c95aa3f0}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+[Ops Management Presentation](<iframe src="https://iowa-my.sharepoint.com/personal/eggoodman_uiowa_edu/_layouts/15/Doc.aspx?sourcedoc={2701a5c2-1817-4920-9186-1ea2c95aa3f0}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>)
